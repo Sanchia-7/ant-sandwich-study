@@ -20,7 +20,9 @@ The analysis was performed using:
 
 ## Dataset Source
 Dataset: sandwich.csv
+
 Provided by TU Dortmund's Department of Statistics.
+
 Contains 48 sandwich combinations with recorded ant counts.
 
 ## 🔍 Key Findings
